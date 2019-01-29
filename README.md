@@ -1,3 +1,7 @@
+
+### 2 POINTS
+### KEY: Good enough 
+
 # Python Review Misc Topics
 
 ### Problem 1:
